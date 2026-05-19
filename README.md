@@ -13,11 +13,13 @@ A Java Swing desktop application to manage students and their grades.
 - Swing (JFrame)
 - OOP concepts
 
+## Author
+Djibril
+
 ## How to run
 ```bash
 javac StudentGradeManagerGUI.java
 java StudentGradeManagerGUI
 
 
-## Author
-Djibril
+
